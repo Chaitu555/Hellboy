@@ -14,3 +14,10 @@ echo, pwd, mkdir, cd, set etc;
 
 External commands or Binary commands used in scripts located in a distinct files -- sometimes we need to install them
 mv, cp, uptime, date etc;
+
+Once after opening the ICell= (Linux), to know the home directory we need to use pwd
+pwd helps to show the home directory.
+Ex: pwd
+/home/nick(name changes base on the user)   ----- like this
+
+
