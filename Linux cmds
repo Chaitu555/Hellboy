@@ -1,0 +1,16 @@
+Linux is a intaractivecell mainly used in day to day life in many industries
+
+[~] = can be called as "tilde". It indicates home directory. You can observe this when ever you have logged into a Linux machine
+Ex: Which symbol represents a user’s home directory in Linux?  -- ~ is the ans
+Main commands for Lunux
+/ == It shows you are on Home directory
+Each user will be having separate Home Directory where they can save files and directories. They can delete, modify and do other things without others interaction
+/home/nick == It shows the particluar user id under home
+echo  =  it helps to show the content we have used to print or save in a file
+Ex: ~$ echo Hello world  ===== It shows Hello world on the next line
+
+Internal or Build in commands in Linux
+echo, pwd, mkdir, cd, set etc;
+
+External commands or Binary commands used in scripts located in a distinct files -- sometimes we need to install them
+mv, cp, uptime, date etc;
